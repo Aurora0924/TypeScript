@@ -33,8 +33,6 @@ class Snake {
                 value=this.X+10
             }
         }
-
-
         this.moveBody()
         this.head.style.left = value + 'px'
         this.checkHeadBody()
