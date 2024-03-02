@@ -1,4 +1,4 @@
-// 定义食物Food
+// 创建食物Food类
 class Food {
 	element: HTMLElement
 	constructor() {
