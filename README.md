@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 一、TypeScrip练习-贪吃蛇游戏准备
 
 创建tsconfig.json文件，目的将TypeScript转换为JavaScript代码。文件代码如下：
