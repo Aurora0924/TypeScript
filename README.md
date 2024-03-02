@@ -466,7 +466,3 @@ class Snake {
   }
 }
 ```
-=======
-# TypeScript
-TypeScript贪吃蛇小游戏
->>>>>>> 4feb3e74070906efd5d250e3f14b3425f88892eb
