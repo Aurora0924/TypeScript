@@ -1,12 +1,12 @@
 {
-  "name": "part2",
+  "name": "snake",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "start": "webpack serve --open chrome.exe"
+    "start": "webpack serve"
   },
   "keywords": [],
   "author": "",
